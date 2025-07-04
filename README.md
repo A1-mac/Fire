@@ -1,4 +1,4 @@
-# fire
+# Fire
 
 A new Flutter project.
 
